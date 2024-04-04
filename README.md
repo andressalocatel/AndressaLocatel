@@ -9,11 +9,13 @@
 - ⚡ Curiosidade: Sou formada em medicina veterinária e agora estou me aventurando no mundo da programação.
 
 ##
+<br> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andressalocatel&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressalocatel&layout=compact&theme=synthwave&card_width=800)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
+  <h1><b>Knowledge / Conhecimento:</b></h1>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
