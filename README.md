@@ -11,7 +11,7 @@
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andressalocatel&show_icons=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=synthwave&card_width=800)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressalocatel&layout=compact&theme=synthwave&card_width=800)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
