@@ -4,6 +4,8 @@
 - 📫 How to reach me: andressalocatel91@gmail.com 
 - ⚡ Fun fact: I have a degree in veterinary medicine and now I'm venturing into the world of programming.
 
+##
+
 - 🌱 Atualmente estou aprendendo sobre HTML e CSS.
 - 📫 Como me contactar: andressalocatel91@gmail.com 
 - ⚡ Curiosidade: Sou formada em medicina veterinária e agora estou me aventurando no mundo da programação.
